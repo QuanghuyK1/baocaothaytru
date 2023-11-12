@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB_TTTN", "WEB_TTTN\WEB_TTTN.csproj", "{3AA43E28-D08E-4EDA-B7A0-B2FA88459AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_Application", "Hospital_Application\Hospital_Application.csproj", "{B994ACBB-C226-4D7D-890D-93EDAC0E7D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA43E28-D08E-4EDA-B7A0-B2FA88459AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA43E28-D08E-4EDA-B7A0-B2FA88459AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA43E28-D08E-4EDA-B7A0-B2FA88459AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA43E28-D08E-4EDA-B7A0-B2FA88459AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B994ACBB-C226-4D7D-890D-93EDAC0E7D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B994ACBB-C226-4D7D-890D-93EDAC0E7D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B994ACBB-C226-4D7D-890D-93EDAC0E7D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B994ACBB-C226-4D7D-890D-93EDAC0E7D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A9F870-FA2F-4FFE-BEC3-5950E3860BB2}
+	EndGlobalSection
+EndGlobal

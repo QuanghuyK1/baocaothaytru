@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dialogs\AdminEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\BillDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\BlogDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\CertificateDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ClassesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ConfirmSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\CTVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\InsuranceDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\LocationDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\MedicineDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ScheduleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ScheduleEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ScheduleEmpAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ScheduleEmpPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\SearchSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\PatientDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ServicePatientDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\ShowInforSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialogs\TypeServiceDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
